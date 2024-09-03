@@ -1,6 +1,6 @@
-# wassup_4
-wassup_4
-# add/push test
+### About me
+
+<h1 align="left">안녕하세요✋, 서비스 기획자가 목표인 이인재입니다.
 
 # pull test
 
