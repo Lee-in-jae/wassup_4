@@ -15,7 +15,7 @@
 ## Notion Link
 WASSUP Ai 서비스기획 4기 과정에 참여하며 공부한 기록입니다. 
 
-<a href="https://www.notion.so/oreumi/fac5ca1247674d00a0d704751406ce4f?pvs=4">👉"Notion 공부내용 보기"
+<a href="https://www.notion.so/oreumi/fac5ca1247674d00a0d704751406ce4f?pvs=4">👉Notion 학습한 내용 보기
 
 ## project
 
